@@ -3,9 +3,9 @@ def main():
     num = int(input('Give a number:'))
     
     if num >= 0:
-        print('Number is positive')
+        print('The number is positive.')
     else:
-        print('Number is negative')
+        print('The number is not positive.')
 
 if __name__ == '__main__':
     main()
